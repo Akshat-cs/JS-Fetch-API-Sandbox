@@ -4,6 +4,10 @@ A very basic javascript Fetch API Sandbox where I am fetching data from sample.t
 
 # Project Screenshots
 
+## API Sandbox
+
 ![Fetch API Sandbox Project Screenshot](Sandbox.png)
+
+## Data Fetched looks like this
 
 ![API data fetched looks like this](dataFetched.png)
